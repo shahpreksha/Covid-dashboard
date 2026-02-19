@@ -108,14 +108,11 @@ All visualizations support:
 - ResetExport as image
 
 ## Key Features
-
-```
 1. Modular software architecture separating UI, preprocessing, and visualization logic
 2. Multi-page dashboard built using QStackedLayout
 3. Data validation before rendering plots
 4. Clean user-triggered workflow (Load → Preprocess → Visualize)
 5. Academic-grade documentation and report
-```
 
 ## Tools and Libraries
 - Python 3.11
